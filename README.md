@@ -135,7 +135,7 @@ Note:
 ### File upload Section:
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/output3.png" alt="Ollama list" width="600">
 
-### Conversation between the chat assistant and user after file uploaded regarding the dov\cument and personal conversation
+### Conversation between the chat assistant and user after file uploaded regarding the document and personal conversation
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/output4.png" alt="Ollama list" width="600">
 
 ## Thank You!!

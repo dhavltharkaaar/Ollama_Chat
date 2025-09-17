@@ -64,16 +64,9 @@ Open Anacond Navigator
 3. select python and version using list option.
 4. click on create to create the environment
 
-To activate the environment, run:
-
 ```bash
-  conda activate myenv
-    ```
+# To activate the environment
+conda activate myenv
 
-To deactivate the environment:
-```bash
+# To deactivate the environment
 conda deactivate
-    ```
-
-
-

@@ -21,8 +21,29 @@ The application acts as a personal assistant, allowing users to ask questions an
 
 ### Set-up to start ollama
 After installation open command prompt and type
->> Ollama
+First Command as : Ollama
+
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/cmd.png" alt="Ollama check" width="600">
+
+- After checking that Ollama is installed properly:
+  - Run the following command:
+    ```bash
+    ollama list
+    ```
+    - Note: On the first run, you will find nothing.
+
+  - Then type the following command:
+    ```bash
+    ollama run llama3.2
+    ```
+
+  - Now type the list command again:
+    ```bash
+    ollama list
+    ```
+
+  - You will now see `llama3.2` listed as shown in the image below:
+
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/list.PNG" alt="Ollama list" width="600">
 
 

@@ -119,5 +119,7 @@ Note:
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/serverrun.png" alt="Ollama list" width="600">
 
 9. We will open the second anaconda prompt and activeta the environment, then change the path whre th eapp.py is stored.
-10. then run the command streamlit run app.py
-11. or you can use python -m streamlit app.py
+    
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/app.png" alt="Ollama list" width="600">
+11. then run the command streamlit run app.py
+12. or you can use python -m streamlit app.py

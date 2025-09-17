@@ -70,3 +70,12 @@ conda activate myenv
 
 # To deactivate the environment
 conda deactivate
+
+## Change the name of the envrionment as per your environment name
+
+## Libraries need for this project
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-202020?logo=github&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-007ACC?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)

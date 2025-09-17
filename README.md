@@ -8,8 +8,10 @@ The application acts as a personal assistant, allowing users to ask questions an
 ## Requirements to be Downloaded like below:
 ### Programming Language:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-### LLLMs Required:
-<img src="hhttps://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/ollamalogo.png" alt="Ollama">
 
-## To Download Ollama click below link: 
-[Download_Ollama](https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white)](https://ollama.com/download)
+### LLMs Required:
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/ollamalogo.png?raw=true" alt="Ollama" width="150">
+
+## To Download Ollama click the link below:  
+[![Download Ollama](https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white)](https://ollama.com/download)
+

@@ -64,18 +64,17 @@ Open Anacond Navigator
 3. select python and version using list option.
 4. click on create to create the environment
 
-```bash
-# To activate the environment
-conda activate myenv
+ - To activate the environment type this code in anaconda prompt:
+    ```bash
+    conda activate myenv
+    ```
 
-# To deactivate the environment
-conda deactivate
-...
+  - To deactivate the environment:
+    ```bash
+    conda deactivate
+    ```
 
-## Change the name of the envrionment as per your environment name
-
-## Libraries need for this project
-
+###  Libraries needed for the Project:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-202020?logo=github&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-007ACC?logo=python&logoColor=white)

@@ -88,10 +88,11 @@ Open Anacond Navigator
     ```
 ## O Else Use Below command
 
-     - First Activate your environment"
+  - First Activate your environment"
     ```bash
-    conda install -c conda-forge streamlit pandas pymupdf
+    conda install streamlit ollama pymupdf pandas
     ```
+
     
 
 

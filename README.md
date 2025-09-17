@@ -121,5 +121,21 @@ Note:
 9. We will open the second anaconda prompt and activeta the environment, then change the path whre th eapp.py is stored.
     
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/app.png" alt="Ollama list" width="600">
-11. then run the command streamlit run app.py
-12. or you can use python -m streamlit app.py
+10. then run the command streamlit run app.py
+11. or you can use python -m streamlit app.py
+
+### Output Screenshots:
+
+### Front or Home Page:
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/output1.png" alt="Ollama list" width="600">
+
+### Conversation between the Assistant and the User without file upload:
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/output2.png" alt="Ollama list" width="600">
+
+### File upload Section:
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/output3.png" alt="Ollama list" width="600">
+
+### Conversation between the chat assistant and user after file uploaded regarding the dov\cument and personal conversation
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/output4.png" alt="Ollama list" width="600">
+
+## Thank You!!

@@ -86,15 +86,38 @@ Open Anacond Navigator
     ```bash
     pip install streamlit ollama pymupdf pandas
     ```
-## O Else Use Below command
+## Or Else Use Below command
 
   - First Activate your environment"
     ```bash
     conda install streamlit ollama pymupdf pandas
     ```
+### By following above steps we have made an environment and established the llama3.2 via ollama
 
-    
+## To start the project we need to follow few steps as mentionaed below:
 
+Note: 
+1. Make sure you have done sith ollama download from their websote, then installation process.
+2. in command prompt :ollama check and ollama list download.
+3. Making an environment in Anaconda Navigator and installing all required libraries
 
+# Lets start the project
+1. First open one Anaconda Powersheell Prompt Activate the environment you created and then go to the desired file location where you have store the app.py file.
+2. then we will start the ollama server by gining the command to anaconda prompt as below.
+3. ollama serve.
 
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/server1.png" alt="Ollama list" width="600">
+4. On some cases ollama serve dont work because of port is alreayy occupied.
+5. Use this command instead $env:OLLAMA_HOST ="127.0.0.1:11435
+6. then use $env:OLLAMA_HOST
+7. In last we will go for ollama serve
 
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/server%202.png" alt="Ollama list" width="600">
+
+8. for checking ollama is working properly see bow image. You will found the same in your pc or desktop om right bottom.
+
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/serverrun.png" alt="Ollama list" width="600">
+
+9. We will open the second anaconda prompt and activeta the environment, then change the path whre th eapp.py is stored.
+10. then run the command streamlit run app.py
+11. or you can use python -m streamlit app.py

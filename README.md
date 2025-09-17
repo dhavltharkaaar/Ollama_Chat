@@ -15,7 +15,16 @@ The application acts as a personal assistant, allowing users to ask questions an
 ### To Download Ollama click the link below:  
 [![Download Ollama](https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white)](https://ollama.com/download)
 
-As soon as you dounload the ollama install it in your Desktop for further use
-## Set-up to start ollama
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/ollama_download.png" alt="Ollama Download Page" width="600">
+
+## As soon as you dounload the ollama install it in your Desktop for further use.
+
+### Set-up to start ollama
+After installation open command prompt and type
+>> Ollama
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/cmd.png" alt="Ollama check" width="600">
+<img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/list.PNG" alt="Ollama list" width="600">
+
+
 
 

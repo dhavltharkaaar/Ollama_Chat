@@ -79,3 +79,21 @@ Open Anacond Navigator
 ![Ollama](https://img.shields.io/badge/Ollama-202020?logo=github&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-007ACC?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+### To install htis libraries into your environment
+
+  - First Activate your environment"
+    ```bash
+    pip install streamlit ollama pymupdf pandas
+    ```
+## O Else Use Below command
+
+     - First Activate your environment"
+    ```bash
+    conda install -c conda-forge streamlit pandas pymupdf
+    ```
+    
+
+
+
+

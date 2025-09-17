@@ -70,7 +70,7 @@ conda activate myenv
 
 # To deactivate the environment
 conda deactivate
-...s
+
 ## Change the name of the envrionment as per your environment name
 
 ## Libraries need for this project

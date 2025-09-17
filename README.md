@@ -46,6 +46,34 @@ First Command as : Ollama
 
 <img src="https://github.com/dhavltharkaaar/Ollama_Chat/blob/main/images/list.PNG" alt="Ollama list" width="600">
 
+### Create a New Environment in Anaconda Prompt
+
+- Open **Anaconda Prompt**.
+- Use the following command to create a new environment:
+
+  ```bash
+  conda create --name myenv python=3.12
+
+Replace myenv with your desired environment name.
+Replace 3.12 with the Python version you need.
+
+Or else
+Open Anacond Navigator
+1. click on create + to create the new environment
+2. give a proper nae for environment
+3. select python and version using list option.
+4. click on create to create the environment
+
+To activate the environment, run:
+
+```bash
+  conda activate myenv
+    ```
+
+To deactivate the environment:
+```bash
+conda deactivate
+    ```
 
 
 
